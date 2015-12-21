@@ -1,0 +1,5 @@
+mondoenv/
+*.pyc
+*.ipynb
+*.config
+*.json
