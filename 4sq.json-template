@@ -1,0 +1,5 @@
+{
+"client_id":"<FOURSQUARE APP CLIENT ID>",
+"client_secret":"<FOURSQUARE APP SECRET>",
+"oauth_token": "<FOURSQUARE USER OAUTH TOKEN>"
+}
